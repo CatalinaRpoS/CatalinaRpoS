@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi! I'm Cata 👩🏻‍💻
+
+I'm a Systems and Computing Engineer from Universidad Nacional de Colombia.
 
 <!--
 **CatalinaRpoS/CatalinaRpoS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
